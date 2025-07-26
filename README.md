@@ -4,7 +4,7 @@
 
 ## 🎮 Some of my pet projects
 - [Atari 2600 emulator in JavaScript](https://github.com/edeckers/atari2600-2025) - ode to my first computer
-- [Python monad libraries](https://github.com/edeckers/pyella) - common applicatives, functors and monads for loads of /fun/ with Python
+- [Pyella](https://github.com/edeckers/pyella) - common applicatives, functors and monads for loads of /fun/ with Python
 
 ## 📝 Sometimes I write
 About software development, pet projects, and lessons learned [on my blog](medium.branie.it)
