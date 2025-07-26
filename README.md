@@ -3,7 +3,7 @@
 **Utrecht, NL based developer with a passion for coding and solving problems.**
 
 ## 🎮 Some of my pet projects
-- [Atari 2600 emulator in JavaScript](https://github.com/edeckers/atari2600-2025) - ode to my first computer: JavaScript Atari 2600 emulator
+- [Atari 2600 emulator in JavaScript](https://github.com/edeckers/atari2600-2025) - ode to my first computer
 - [Python monad libraries](https://github.com/edeckers/pyella) - common applicatives, functors and monads for loads of /fun/ with Python
 
 ## 📝 Sometimes I write
