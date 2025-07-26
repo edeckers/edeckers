@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ely
 
-<!--
-**edeckers/edeckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Utrecht, NL based developer with a passion for coding and solving problems.**
 
-Here are some ideas to get you started:
+## 🎮 Some of my pet projects
+- [Atari 2600 emulator in JavaScript](https://github.com/edeckers/atari2600-2025) - ode to my first computer: JavaScript Atari 2600 emulator
+- [Python monad libraries](https://github.com/edeckers/pyella) - common applicatives, functors and monads for loads of /fun/ with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Sometimes I write
+About software development, pet projects, and lessons learned [on my blog](medium.branie.it)
+
+## 💼 Professional stuff
+Visit the website of my company [BRANIE IT](https://branie.it), or check out the [GitHub organization](https://github.com/branie-it) where my business projects happen.
