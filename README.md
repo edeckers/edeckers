@@ -9,5 +9,5 @@
 ## 📝 Sometimes I write
 About software development, pet projects, and lessons learned [on my blog](https://medium.branie.it)
 
-## 💼 Professional stuff
+## 💼 Let's talk business
 Visit the website of my company [BRANIE IT](https://branie.it), or check out the [GitHub organization](https://github.com/branie-it) where my business projects happen.
