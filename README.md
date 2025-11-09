@@ -10,7 +10,11 @@
 
 ## 📝 Sometimes I write
 
-About software development, pet projects, and lessons learned [on my blog](https://medium.branie.it)
+About software development, pet projects, and lessons learned [on my blog](https://medium.branie.it). Some highlights:
+
+- [Building Flipr: a URL shortener, one commit at a time
+](https://medium.branie.it/building-flipr-a-url-shortener-one-commit-at-a-time-6b972c5fe9d6) - first post in a hands-on series about developing a distributed URL shortener, hosted on Kubernetes
+- [Building useless software made me a better developer](https://medium.branie.it/how-building-useless-software-made-me-a-better-developer-98e9c5f6cbc4) - on why pet projects matter
 
 ## 💼 Let's talk business
 
